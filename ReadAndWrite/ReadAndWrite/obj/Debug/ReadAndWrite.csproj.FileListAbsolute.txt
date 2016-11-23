@@ -1,0 +1,9 @@
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.pdb
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csprojResolveAssemblyReference.cache
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.Form1.resources
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.Properties.Resources.resources
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.GenerateResource.Cache
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+c:\users\ksook\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.pdb
