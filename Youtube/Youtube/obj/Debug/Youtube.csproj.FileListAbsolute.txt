@@ -6,3 +6,7 @@ c:\users\ksook\documents\visual studio 2015\Projects\Youtube\Youtube\obj\Debug\Y
 c:\users\ksook\documents\visual studio 2015\Projects\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.Cache
 c:\users\ksook\documents\visual studio 2015\Projects\Youtube\Youtube\obj\Debug\Youtube.exe
 c:\users\ksook\documents\visual studio 2015\Projects\Youtube\Youtube\obj\Debug\Youtube.pdb
+C:\Users\ksook\documents\visual studio 2015\Projects\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache
+C:\Users\ksook\Documents\Visual Studio 2015\Projects\Web\Youtube\bin\Debug\Youtube.exe.config
+C:\Users\ksook\Documents\Visual Studio 2015\Projects\Web\Youtube\obj\Debug\Youtube.exe
+C:\Users\ksook\Documents\Visual Studio 2015\Projects\Web\Youtube\obj\Debug\Youtube.pdb

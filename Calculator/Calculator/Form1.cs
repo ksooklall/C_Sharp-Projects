@@ -27,7 +27,7 @@ namespace Calculator
             {
                 textBox1.Clear();
             }
-            
+
             Button button = (Button)sender;
             textBox1.Text = textBox1.Text + button.Text;
         }
